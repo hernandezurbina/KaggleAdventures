@@ -3,4 +3,5 @@ datasets/*
 .DS_Store
 results/*
 *.csv
+plots/*
 
